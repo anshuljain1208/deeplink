@@ -1,0 +1,37 @@
+{
+    "appclips":
+    {
+        "apps":
+        [
+            "C9YMA892DM.com.grabpay.merchant.Clip",
+            "VU3G7T53K5.com.grab.merchant.staging.Clip",
+            "C9YMA892DM.com.grabtaxi.iphone.Clip",
+            "VU3G7T53K5.com.grab.passenger.dogfood.debug.Clip",
+            "VU3G7T53K5.com.grabtaxi.iphone.dogfood.Clip",
+            "C9YMA892DM.com.grabtaxi.pax.gea.Clip"
+        ]
+    },
+    "applinks":
+    {
+        "apps":[],
+        "details": [
+            {
+                "appID": "C9YMA892DM.com.grabtaxi.iphone",
+                "paths": [“*”],
+            },
+            {
+                "appID": "VU3G7T53K5.com.grabtaxi.iphone.dogfood",
+                "paths": [“*”],
+            },
+            {
+                "appID": "C9YMA892DM.com.grabtaxi.pax.gea",
+                "paths": [“*”],
+            },
+            {
+                "appID": "VU3G7T53K5,com.grab.passenger.dogfood.debug",
+                "paths": [“*”],
+            }
+        ],
+
+    }
+}
